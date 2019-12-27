@@ -1,0 +1,97 @@
+Digital Education Futures
+	The Dystopian Futures
+		**Increased surveillance and accountability**
+			Concern of dataveillance - surveillance of abstract data within educational institutions
+			Young people being habituated to unprecedented levels of scrutiny and control
+		**The "dumbing down" of younger generations**
+			Social media-using generations of students accustomed to “taking search-engine results as gospel”
+			Declining levels of basic literacy due to “txt-spk”
+			System that does not support endeavors of superior scholars and thinkers
+			Younger generation of intellectual kleptomaniacs
+		**Displacement of "the teacher"**
+			teachers not working with MOOCs are scholars, academics, and faculty
+			argument about whether technology in classroom replaces the teacher
+			teacher - "guide on the side rather than a sage on the stage"
+		boosterism: mindset that technologies are beneficial presence in education
+			doomster - mindset that technology tended to be associated with a set of universalized problems
+		**Making good use of dystopian visions of learning technology**
+			In order to get best from learning technologies might be necessary to be prepared to think the worst of it
+			Such exaggerated stories can only thrive and persist where there is uncertainty and tension
+			None are meant to be taken at face value
+			Designed to draw attention to areas worth consideration and debate
+			Point to problems and blind spots within the field
+		**The deprofessionalism of "the teacher"**
+			restructuring of teaching
+				long-term redundancy
+			comparing teaching to assembly line
+				work that was once domain of highly-skilled specialist can be performed by lower-skilled workers
+			Noble - sees teachers as content producers
+			administration in position to hire less skilled workers
+		**The dis-engagement of the learner**
+			acceleration of "a culture of disrespect"
+				ratemyprofessor
+			detrimental effects on learners
+			distraction of digital technologies
+			students filming teachers and posting it online
+		**The devaluation of knowledge**
+			Distribution of information is reducing the need to actually “know” anything
+			Today’s learners are suffering from “information obesity”
+			“Our intelligence has ended up making us stupid”
+	Utopian Features for Learning Technologies
+		**Shifts in Learning Environments**
+			Grades to continuous feedback mechanisms - provide opportunities for mastery and continuous improvement instead of grades
+			Degrees to reputation metrics - new avenues for providing feedback and assessment of individual’s skills
+			
+			Content conveyors to content curators - curation gains paramount importance
+			
+			Episodic to continuous learning - embedded in everyday life inside and outside of classroom
+			
+			Assigning to enticing with content - attracting learners to participate and share in the resources at their disposal
+			
+			Working at one scale to working up and down the scale - connective technology provides opportunity for organizations to reconsider scale
+			
+			Lecture halls to collaborative spaces - project based learning, collaboration, mentoring, and coaching. Providing “sticky spaces” for learning
+		**Emerging Technologies**
+			Enabling technology - innovative technologies that have potential to transform everyday lives
+			Social media - tools develop primarily for consumer social purposes
+			Internet technologies - digital tools and applications that allow learners to seamlessly interact with networks
+			Consumer technologies - solutions that were not initially designed for educational purposes
+			Digital strategies - innovative ways of using applications and devices to support teaching and learning
+			Learning technologies - resources and tools developed exclusively for education 
+			Visualization technologies - infographics to sophisticated visual data analysis
+		**Forecast: Creating the future of learning**
+			Forces
+				Amplified organization - organizational “superheros” remake organizational models
+				Pattern recognition - new tools for visualizing data will require new skills for identifying patterns. Ability to identify and analyze data define the skill of collective sensemaking
+				New civic discourse - sharing of resources in a global society
+				Platforms for resilience - organizations to change focus from resisting to responsive
+				Altered bodies - intersection of environment and performance. Connections from environment and brain
+		**Technological Utopianism**
+			Belief that advances in science and technology will eventually bring a utopia
+		**Future of learning**
+			informalization - Ways of learning that are life-wide
+			
+			Personalization -Ways of learning that are learner centered
+			Collaboration -Involves ways of learning that are social
+		**Organizations: the future of learning institutions in a digital age**
+			Flexible scalability and simulation - bring learners together to work collaboratively
+			Lifelong learning - need to continually acquire new knowledge and skills
+			Open-sources education - embraces na open-source culture that shares processes, products, and content
+			De-centered pedagogy - use of collective and collaborative sources of knowledge
+			Presumed authority to collective credibility - move from authoritativeness to credibility. Making wise choices with information at hand
+			Self-learning - productive use of the online world to seek information and collaborate with others. 
+			Horizontal structures - collaborative and team-based. Shifts from information-seeking to finding reliable sources
+			Networked learning - socially networked collaborative learning. Range from peer to peer learning to many to many learning
+			Learning as connectivity and interactivity - connectivity and interactivity afforded by digitally connected devices and applications
+			Learning institutions as mobilizing networks - need for learning institutions to move from weighty and assertive to light and enabling bodies
+		**IFTF six emerging themes**
+			Socialstructed work - social work flows
+			Human-software symbiosis - extend human capabilities
+			Content commons - ability to mash up content into personalizable and customizable learning resources
+			Embedded and embodied learning - bringing learning into real world
+			New foundations - new platforms for the sharing of information and connections
+			Global learning arbitrage - learning providers include global tutors and mentors
+		**A vision for future learning technologies**
+			Personalized lifelong learning opportunities become commonplace
+			Everyday life integrated with ubiquitous, mobile, high quality, accessible, adaptable, and user friendly applications and services
+			Communication, collaboration, negotiation, and networking skills critical for all learners

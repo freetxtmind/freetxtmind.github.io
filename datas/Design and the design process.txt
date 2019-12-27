@@ -1,0 +1,183 @@
+**Design and the 
+design process.**
+	Design Brief
+		Open brief.
+		(Less restrictive)
+		Brief analysis
+		(Mind maps)
+		Closed brief.
+		(More restrictive)
+	Identification
+	of a problem
+		Developing new products
+		Conducting market research
+		Product evaluations
+		Situational analysis **(SWOT)**
+	Research
+		What is consumers need / want?
+		Identify potential market gaps.
+		Evaluate existing products.
+		Potential improvements to existing products?
+			Questionaires
+			& surveys.
+				Yes / Questions.
+				Responses on a scale, (1-5).
+				Written responses.
+			User trips.
+				**Who** will be using the product & what are their issues?
+				**What** does the consumer want the product do?
+				**How** will the product be **used**?
+				**How** will the product **perform**?
+					Before use?
+					During use?
+					After use?
+				**What** sort of **environment** will the product be used in?
+				**What** are the **priorities**?
+				(e.g. must frequently used function?)
+	Specification
+		Design factors.
+			Function.
+				Primary function.
+				Secondary function(s).
+			Performance.
+				How well does the product fulfil it's 
+				primary / secondary function(s)?
+				Durability.
+				(Endurance of wear /damage)
+				
+					Materials.
+						Strength, weight, shock, 
+						water & heat resistance.
+							Wood
+							Plastic
+							Metal
+					Construction.
+						Ensuring the product
+						is long-lasting,
+						hard-wearing & sturdy.
+				Ease of use & size.
+				Ease of maintenance.
+			Fitness for purpose.
+				How well does the
+				 product do it's job?
+				Product lifespan 
+				& the environment.
+					Ordinary obsolescence.
+					Planned obsolesence.
+			Market.
+				Market segments.
+					Geographic.
+					Demographic.
+					Behaviouristic
+					Psychographic.
+				Marketing mix.
+					Product.
+					Price.
+					Place
+					Promotion.
+				Human aspects.
+					Needs.
+						Food, water, shelter & clothing.
+						Love, friendship & belonging.
+					Wants.
+						Makes you feel good.
+						Peer pressure & desire to belong.
+						Social status.
+						Convenience and an easier life.
+				Market pull.
+					Consumer demand.
+					Social expectation.
+						Better performance.
+						Better aesthetics.
+						Environmentally friendly.
+						Better value.
+						More choice.
+						New technology / features.
+				Technology push.
+				(Innovation creating new demand)
+					Smart phones.
+					Smart watches.
+					Smart TVs
+					Tablet computers.
+				Advertising.
+					TV & Internet.
+					Billboards, magazines & posters.
+					Celebrity endorsement.
+					Discounts & promotional offers.
+					Pairing.
+					(By a new smart phone and get a 'free' smart watch)
+					Vouchers for future purchases.
+			Aesthetics.
+				Shape & form.
+					Geometric.
+					Organic.
+				Size & Proportion.
+					Stability.
+					Symmetry.
+					Asymmetry.
+				Material & texture.
+				Contrast & Harmony.
+					Colour.
+					Shape.
+					Material.
+				Fashion, style & Fads.
+			Ergonomics.
+	Solution
+		Planning for
+		Manufacture
+			Selecting materials.
+			Preparing materials.
+			Sequence of operation.
+			Production of
+			drawings & diagrams
+		Prototype 
+		development
+		Evaluating
+		& testing
+			Questionnaires & surveys.
+				Yes / Questions
+				Responses on a scale, (1-5).
+				Written responses.
+			Focus groups.
+			User trials.
+			(Kettle example)
+				How easy is it to use & understand?
+				How easy is it to lift & move?
+				How easy are the controls to use?
+				Is the hande or grip comfortable?
+			Test rigs.
+				How quickly will it boil?
+				Do the materials stand up to
+				a failure to switch of on boiling?
+				Do materials stand up to being dropped?
+			Measuring & recording.
+			Online searches.
+			Product comparison.
+				Evaluation matrix,
+				spider diagram.
+			Comparison to the specification.
+		Manufacture
+		& production
+	Idea 
+	Generation
+		Thought showers.
+		Morphological analysis.
+		Technology transfer.
+		Collages.
+			Mood boards.
+			Lifestyle boards.
+		Analogy.
+		Lateral thinking.
+	Idea 
+	Development
+		Evaluation matrix,
+		Spider diagram.
+			Synthesis of ideas.
+			Idea exploration.
+			Refinement.
+			Modelling.
+				Sketch model.
+				Block model.
+				Scale model.
+				CAD model.
+				Prototype model.
