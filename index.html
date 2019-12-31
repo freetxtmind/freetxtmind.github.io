@@ -166,10 +166,11 @@
         <hr/>
         <h2>Examples</h2>
         <div example-reference>
-          <template v-for="item in items">
+          <ol>
+          <li v-for="item in items">
           <a target="_blank" v-bind:href="'#id/' + item.id">{{item.name}}</a>
-          <br/>
-          </template>
+          </li>
+          </ol>
         </div>
 			</div>
 		</div>

@@ -1,0 +1,55 @@
+Teamwork
+	Training
+		Teamwork Competencies
+			Planning and Task Coordination
+			Communiations
+			Conflict Resolutoin
+			Collaborative Problem Solving
+			Goal Setting and Performance
+		Cross-Training
+			Personal Clarification
+			Positional Modeling
+			Positional Rotation
+		Team Building
+		Team Process Training
+	Taskwork Processes
+		Creative Behavior
+			Brainstorming
+			Nominal Group Technique
+		Decision Making
+			Hierarchical Sensitivity
+			Decision Informity
+			Staff Validity
+		Boundary Spanning
+			Scout Activities
+			Ambassador Activities
+			Task Coordinator Activities
+	Teamwork Processes
+		Transition Processes
+			Goal Specification
+			Mission Analysis
+			Strategy Formulation
+		Action Processes
+			Coordination
+			Helping Behavior
+			Progress Monitoring
+		Interpersonal Processes
+			Conflict Management
+				Relationship Conflict
+				Task Conflict
+			Affect Management
+			Motivating and Confidence Building
+	Team States
+		Shared Mental Models
+		Cohesion
+		Potency
+		Transactive Memory
+	Communication
+		Communicator Issues
+			Sender Competence
+			Data Decoding Issues
+			Data Encoding Issues
+			Receiver Competence
+		Signal to Noise
+		Inappropriate Message Richness
+		Inappropriate Communication Network Structure

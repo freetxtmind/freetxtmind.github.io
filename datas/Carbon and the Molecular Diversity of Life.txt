@@ -1,0 +1,237 @@
+**Carbon and the Molecular Diversity of Life**
+	**Organic Chemistry**
+		Study of structures containing carbon and its interactions
+		C, H, O, N makes up life
+		**Stan Miller's Experiment**
+			**Abiotic Synthesis of Organic Molecules**
+				Attempt to prove organic stuff can synthesize from antibiotic stuff
+			Theorizes how life may have formed
+	**Carbon Structures**
+		**Isomers**
+			**Cis-Tran Isomers**
+				**Tran Isomer**
+					 ![1e](attached://64d7f9ad1d9a7d6ef9987c2ed0552541 150x104) 
+					Atom/group of atoms are on different sides
+				**Cis Isomer**
+					Atom/group of atoms are on the same side
+					 ![cis](attached://21cb73988468746eddfffa9a5b33b82e 150x102) 
+			Change in structure changes function of organic molecules
+			Compounds w/same elements but arranged differently
+			**Structural Isomers**
+				Different element placement
+					 ![7fa08544db1e27403fe4a2f84767cdd5c4f7d5b7](attached://f139068aa618d7bb473629907840e569 150x88) 
+			**Enantiomer**
+				Two compounds are mirror images of each other
+				Asymmetrical
+					 ![20190915_195835-1](attached://8a7c387d8f461da280823742d91f3fd4 150x54) 
+				Left-hand won't fit right-handed glove & vice versa
+	**ATP**
+		Main energy provider; involved in cellular respiration
+			**ADP**
+				Only 2 phosphate groups remain (thus, di-)
+				One phosphate is broken; energy is broken from there
+				Broken off phosphate brings energy to another molecule
+		 ![atp](attached://008ec125c376fcdfa8fbac458248d1c8 150x65) 
+		Adenosine + 3 phosphate groups (thus, tri-)
+	**Carbon Bonds**
+		**Hydrocarbons**
+			**How To Find Amount of Carbons & Hydrogens**
+				(Single bonds) # of carbons * 2 + 2
+				(Double bonds) # of carbons * 2 + 2 - 2(per double bond)
+			**Characteristics**
+				Some molecules can have non-polar bonds; hydrophobic
+				Can release energy through reactions (i.e. petroleum)
+			Makes up fuel; petroleum
+			Organic molecules that only has hydrogen and carbon
+		**Basic Info**
+			Forms skeletons in most organic molecules
+			Normally bonds with H, O, N 
+			Can form covalent bonds
+			Carbon can form 4 bonds b/c of 4 valence electrons
+			Gives/takes 4 electrons
+			**Basic Shapes**
+				1 Tetrahedron (i.e methane (CH4))
+					 ![003-methane_formula](attached://1672a55e85c970507c8eded802fac526 94x88) 
+				2 or more Tetrahedrons (i.e Ethane C2H6)
+					 ![ethane-49c7767e-83b0-4b0a-b054-71a381c5f7d-resize-750](attached://98b2dd8d2ad62182bf2df83939c4c33f 112x84) 
+				Double Bonds (i.e Ethene (ethylene)(C2H4))
+					 ![ethylene-teaser](attached://5faef1c0331eee4b0620bbed1e2de52b 99x88) 
+		**Valence**
+			Amount of unpaired electrons 
+			Shows number of possible covalent bonds
+	**Functional Groups**
+		**Hydroxyl**
+			Dissolves compounds such as sugar 
+			Polar b/c of electronegative oxygen.  
+			 ![Annotation 2019-09-15 202028](attached://e17d84b34e60ea532104c7b43f1cdd83 150x101) 
+			Usually ends on -ol; alcohol (i.e ethanol)
+			Hydrogen bonds w/water
+		**Carbonyl**
+			Destabilizes bonds in carbon chain
+			 ![download](attached://03f4e0a848fa16be81008145492c541b 147x150) 
+			**Ketone**
+				Found within carbon skeleton
+				Ketoses + sugars w/ ketone groups (i.e acetone)
+			**Aldehyde**
+				Found at end of carbon skeleton
+				Aldoses = Sugars w/ aldehydes (i.e. propanal)
+		**Methyl**
+			 ![methyl](attached://9d967970cd1c78aeadbbc4345f4f61e6 150x71) 
+			Methylated Compound (i.e 5-Methylcytosine)
+			Affects male/female sex hormone shape/function
+			Affects gene expression on DNA or proteins on DNA
+		**Phosphate**
+			Organic Phosphate Compound (i.e glycerol phosphate) 
+			 ![phosphate_group](attached://126bbd9b66b46eb9fe97c78b4a307280 150x103) 
+			Helps react w/water; releases energy
+			Affects negative charge (-1 when inside chain; -2 when at end of chain)
+		**Carboxyl**
+			Acid b/c of covalent bond between oxygen & hydrogen is very polar
+			Gives H+ (H ions; protons)
+			Carboxylic acid or organic acid (i.e. acetic acid, carboxylate ion)
+			 ![maxresdefault](attached://aada53691123464521face23870fa029 150x84) 
+		**Amino**
+			Base; takes H+ (H ions/protons)
+			Picks up H+ from surrounding solution (i.e water in living things)
+			Amine compund (i.e glycine, ionized -NH2)
+			 ![amino](attached://c6c4a48c57e1b0e58f5d885b2620ca13 150x86) 
+		**Sulfhydryl Group**
+			 ![thiol](attached://0c8990881877b2622075d9983018c819 150x102) 
+			Crosslink (reactions) help stabilize protein structure (i.e hair structure)
+			Thiol compund (i.e Cysteine)
+**The Structure and Function of Large Biological Molecules**
+	**Macromolecules**
+		**Polymer**
+			Train with chain of cars
+			Long molecule built of similar looking building blocks (monomers)
+			Held by covalent bonds
+		**Monomer**
+			(i.e carbs - monosacchirides, lipids - fatty acid chains & glycerol, proteins - amino acids, nucleic acids - nucelotides)
+			Individual building blocks that build polymers
+			Each macromolecule has one 
+		Big molecules classified into 4 groups (carbs, lipids, proteins, nucleic acids)
+	**Nucleic Acids**
+		**Nucleotides**
+			**RNA**
+				mRNA, tRNA, rRNA
+				Helps make proteins using DNA
+				Sugar used is ribose
+				Has A. U (Uracil), C, G
+				Single-stranded
+			**DNA**
+				**Polynucletides**
+					Nitrogenous Base
+						**Purine**
+							Six-membered ring + five-memberd ring 
+							Adenine and Guanine
+						**Pyrimidine**
+							1 six-membered ring of carbon + nitrogen atoms
+							Cytosine, Thymine, Uracil (RNA)
+					5 carbon sugar (deoxyribose)
+					1-3 phosphate groups
+					Uses A, T, C, G;
+					 A - T, C - G
+				46 DNA molecules in each nucleus of humans; eggs and sperm have 23
+				Deoxyribonucleic Acid 
+				Is in chromosomes
+				Has double-helix
+				Nitrogenous bases are connected by hydrogen bonds
+			Nucleic acid monomer
+		Help w/ gene expression
+		Involved w/ bioinformatics, genomics, & proteomics
+	**Synthesis/Breakdown**
+		**Enzymes**
+			Facilitates chemical reactions; speeds them up
+		**Dehydration**
+			Taking an H20 apart and using them to bond two molecules
+		**Hydrolysis**
+			Taking an H20 to take apart two monomers/ breakdown polymers
+	**Proteins**
+		**Protein Structure**
+			**Primary**
+				Straight line of amino acids (polypeptides)
+			**Secondary**
+				**Beta Pleated Sheet**
+					Has zig-zag shape
+				Helix made from hydrogen bonding
+					Alpha + Beta is also secondary structure
+				**Alpha Helix**
+					Has spring shape
+			**Tertiary**
+				Folding of proteins
+				Many proteins present
+			**Quaternary**
+				Proteins fit together like a puzzle piece (structurally)
+				Typically not held by bonds
+				**Denaturation**
+					Protein incorrectly folds; caused by heat
+					Caused by weak bonds
+					Possible consequences can happen like mutation or an inactive protein
+		Helps w/ structure of many things (i.e. muscle fibers)
+		**Catalysts**
+			Protein enzymes that regulate metabolism; speeds up chemical reactions
+		**Amino Acids**
+			Has amino group and carboxyl group
+			**Polypeptides**
+				Bond between amino acids; polymer of protein
+				**Peptide Bond**
+					Covalent bond between carboxyl group on amino acids, formed by dehydration
+					Makes up polypeptides
+			20 amino acids exists
+	**Carbohydrates**
+		**Monosacchirides**
+			**Simple Sugars**
+				Tastes sweet
+			Provide immediate energy (i.e. cellular respiration)
+			Has carbonyl group C=O
+				(i.e trioses - 3 carbon sugars , pentoses - 5 carbon sugars, hexoses - 6 carbon sugars)
+			Ends in -ose most often (i.e glucose, ribose, fructose, galactose)
+		Consists of carbon, hydrogen, and oxygen
+		**Disacchirides** 
+			(i.e. maltose, sucrose
+			Two monosacchirides joined by covalent bonds (glycosidic linkage)
+			**Glycosidic Linkage**
+				Covalent bond between 2 monosacchirides by dehydration 
+		**Polysaccharides**
+			Polymers joined by glycosidic linkages
+			Many functions
+			**Storage Polysaccharides**
+				**Glycogen** - animal energy storage; extensively branched
+				**Starch** - stores energy (glucose)
+				Storage of energy
+				Can be broken by hydrolysis
+				Found in potatoes and other foods
+			**Complex Sugars**
+				Doesn't taste sweet
+			**Structural Polysaccharides**
+				Undigestable; fiber
+				Strong structure support
+				**Cellulose** - plant cell structure strength
+				**Chitin** - structure for insect exoskeleton
+	**Lipids**
+		Relatively non-polar; hydrophobic
+		Monomers are fatty acids and glycerol
+		**Triacylglycerol**
+			**Saturated Fats**
+				Solid at room temp.
+				Has single bonds
+				All carbons are with a hydrogen; no spaces are left in structural model
+			**Unsaturated Fats**
+				Some spaces are left; some carbons don't have hydrogens
+				Has double bonds
+				Liquid at room temp.
+		Long-term storage
+		**Phospholipids**
+			Fatty acid tail(s) is hydrophobic (hates water), doesn't mix w/it; non-polar
+			Helps w/cell membrane structure in everything
+			Phosphate head is hydrophillic (loves water); polar
+			**Amphipathic** - non-polar and polar
+		**Steroids**
+			Carbon skeleton; four-fused rings
+			Interlocking rings of C, H, O
+			Doesn't have tails
+			Not stored energy
+			**Cholesterol**
+				Precursor of other steroids (sex hormones)
+				Synthesized in liver
+				Found in certain foods

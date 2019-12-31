@@ -1,0 +1,188 @@
+**Motivation and Emotion**
+	**Approaches to Understanding Motivation**
+		**Motivation:** is the process by which activities are started, directed, and continued so that physical or psychological needs or wants are met (Petri, 1996). The word itself comes from the Latin word mover, which means “to move.”
+			*extrinsic motivation*
+				a person performs an action because it leads to an outcome that is separate from the person (Ryan & Deci, 2000).
+			*ntrinsic motivation*
+				is the type of motivation in which a person performs an action because the act itself is fun, rewarding, challenging, or satisfying in some internal manner.
+		**INSTINCTS AND THE EVOLUTIONARY APPROACH**
+			biologically determined and innate patterns of behavior called instincts that exist in both people and animals.
+			the human instinct to reproduce is responsible for sexual behavior, and the human instinct for territorial protection may be related to aggressive behavior.
+		**APPROACHES BASED ON NEEDS AND DRIVES**
+			**Need:** is a requirement of some material (such as food or water) that is essential for survival of the organism.
+			**Drive:** When an organism has a need, it leads to a psychological tension as well as a physical arousal that motivates the organism to act in order to fulfill the need and reduce the tension. 
+		**DRIVE-REDUCTION THEORY**
+			proposes just this connection between internal physiological
+			states and outward behavior. 
+			*Primary drives*
+				are those that involve survival needs of the body such as hunger and thirst
+			*Acquired (secondary) drives*
+				are those that are learned through experience or conditioning, such as the need for money or social approval, or the need of recent former smokers to have something to put in their mouths.
+			*Homeostasis:* tendency of the body to maintain a steady state
+	**HUMANISTIC APPROACHES**
+		MASLOW’S HIERARCHY OF NEEDS
+			Several levels of need a person must strive for before reaching self-actualization
+				Physiological →safety →love/belonging →esteem →cognitive →aesthetic →self-actualization
+			Self-actualization
+				point at which people have sufficiently satisfied the lower needs and achieved their full human potential
+				Peak experiences
+					times in a person’s life during which self-actualization is temporarily achieved
+				Transcendence
+					search for spiritual meaning beyond one’s immediate self
+					Added to original theory much later
+		SELF-DETERMINATION THEORY (SDT)
+			there are three inborn and universal needs that help people gain a complete sense of self and whole, healthy relationships with others.
+				**Autonomy:** need to be in control of one’s own behavior and goals (i.e. self-determination)
+				**Competence:** need to be able to master the challenging tasks of one’s life
+				**Relatedness:**  need to feel a sense of belonging, intimacy, and security in relationships with others
+			Social context of an action has an effect on the type of motivation existing for the action
+				Supportive environment increases intrinsic motivation
+	￼**AROUSAL APPROACHES**
+		*stimulus motive*
+			s one that appears to be un- learned but causes an increase in stimulation
+			curiosity, playing, and exploration.
+		**OPTIMUM AROUSAL**
+			In arousal theory, people are said to have an optimal (best or ideal) level of tension. 
+			**Yerkes-Dodson law**
+				performance is related to arousal
+				Moderate levels of arousal lead to better performance than do levels of arousal that are too low or too high
+				Effect varies with the difficulty of the task
+					Easy tasks require a high-moderate level
+					More difficult tasks require a low-moderate level
+			Sensation seeker
+				one who needs more arousal than the average person
+		
+		**INCENTIVE APPROACHES**
+			things that attract or lure people into action
+			*Incentive motivation* 
+				Explains behavior as a response to the external stimulus and its rewarding properties
+				Shifts focus from internal “pushes” to external “pulls”
+			Examples
+				Hunger motivates eating by making food more attractive
+					Hungry people rate a sugar solution as more pleasant
+				Excessive heat makes cold things more appealing
+					People who are warm consider cool water to be more pleasant
+	**DIFFERENT STROKES FOR DIFFERENT FOLKS: PSYCHOLOGICAL NEEDS**
+		McClelland’s Theory: Affiliation, Power, and Achievement Needs
+			According to McClelland, human beings have a psychological need for friendly social interactions and relationships with others
+			**need for affiliation (nAff)**
+				people high in this need seek to be liked by others and to be held in high regard by those around them. 
+			**need for power (nPow)**
+				Power is not about reaching a goal but about having control over other people. 
+				People high in this need would want to have influence over others and make an impact on them. 
+			**need for achievement (nAch)**
+				involves a strong desire to succeed in attain- ing goals, not only realistic ones but also challenging ones. 
+		Pesonality and nAch: Carol Dweck's Self-Theory of Motivation
+			According to motivation and personality psychologist Carol Dweck (1999), the need for achievement is closely linked to personality factors, including a person’s view of how self (the beliefs a person holds about his or her own abilities and relationships with others) can affect the individual’s perception of the success or failure of his or her actions. 
+			is related to the much older notion of locus of control, in which people who assume that they have control over what happens in their lives are consid- ered to be internal in locus of control, and those who feel that their lives are controlled by powerful others, luck, or fate are considered to be external in locus of control
+	**Cultural Differences**
+		Individualistic cultures
+			Focus on the individual as independent and autonomous
+			Praise will boost a student’s self-esteem and motivate that student to succeed
+		Collectivistic cultures
+			Focus on the welfare of the group as whole
+			Praise may single out a student and motivate that student to underachieve
+	**Eating Disorders  and Obesity**
+		*Eating disorders*
+			**Anorexia nervosa:** severe undereating
+			**Bulimia nervosa:** binging and purging
+			**Bing-eating disorder:** frequent overeating
+		*Obesity*
+			Body weight ≥ 20% over “ideal” body weight for height
+				Often measured by body mass index (BMI)
+				Weight is NOT a particularly good indicator of health
+			Biological causes: heredity, hormones, slowing metabolism with age
+			Other causes: overeating, stress
+			
+	**Drives**
+		Regulatory Drives
+			Preserve/maintain homeostasis
+			Necessary for continued survival
+			Example: hunger
+		Non-RegulatoryDrives
+			May preserve fitness in other ways
+			Not necessary for continued survival
+			Example: sex
+	**Emotion**
+		 Sometimes called “affect”
+		the “feeling” aspect of consciousness
+		Can trigger change in thought or behavior
+		Three components of emotion
+			Physiological process
+				Example: heart beating fast, sweating
+			Behavioral response
+				Example: eyes and mouth opening wide
+			Inner awareness of feelings
+				Example: I’m scared!
+		**Physiology of Emotion**
+			**Sympathetic nervous system**
+				Responsible for aspects of physiological arousal
+				Some emotions produce similar physiological responses
+					Anger / fear →increased heart rate, more rapid breathing
+				Others produce different physiological responses
+					Disgust →high increases in skin conductance
+					Happiness →less change in skin conductance
+			Polygraph test (“lie detector”)
+				Based on assumption that lying and telling the truth produce different physiological response
+				ONLY detects physiological correlates of emotion
+					Not admissible evidence of innocence/guilt in US courtrooms
+			**Amygdala**
+				Complex structure
+					Many different nuclei and subdivisions
+				Seems to be necessary for fear conditioning
+				Two roads to amygdala for emotional stimuli
+					“Low road” –faster but more crude (subcortical)
+					“High road” –slower but more involved (cortical)
+			**Frontal lobes**
+				**Left frontal lobe:** associated with positive emotions
+				**Right frontal lobe:** associated with negative emotions
+	**Hunger**
+		Eating is one of our most basic needs
+			Some people struggle to eat less
+			Some people struggle to eat more
+		Hunger influenced by a variety of factors
+			Physiological components
+			Social components
+		**Physiological Components**
+			Hormones
+				**Insulin:** reduces level of glucose in bloodstream
+				**Glucagon:** increases level of glucose in bloodstream
+				**Leptin:** signals the hypothalamus that the body has had enough food
+					Reduces appetite
+					Increases the feeling of being full
+			Hypothalamus
+				**Lateral hypothalamus (LH):** starts the eating responses when insulin increases
+				**Ventromedial hypothalamus (VMH):** stops the eating response when glucose increases
+			WEIGHT SET POINT AND BASAL METABOLIC RATE
+				weight set point
+					Some researchers (Leibel et al., 1995; Nisbett, 1972) believe that the hypothalamus affects the particular level of weight that the body tries to maintain
+				basal metabolic rate (BMR)
+					The rate at which the body burns energy when a person is resting
+		**Social Components**
+			Social cues
+				Regular meal times
+			Food preferences
+				Always room for dessert
+			Cultural factors
+				Sometimes rude to refuse food
+			Gender
+				Men and women may start/stop eating for different reasons
+			Comfort
+				Escape from unpleasantness
+				Insulin can increase before food is eaten
+	**Theories of Emotion**
+		Early theories of emotion
+			Common sense theory
+				Stimulus →experience of an emotion →physiological response
+			James-Lange theory
+				Stimulus →physiological response →interpretation / labeling of an emotion
+			Cannon-Bard theory
+				Stimulus →brain activity →physiological response AND interpretation of emotion
+		Cognitive theories of emotion
+			Facial feedback theory
+				Facial expressions provide feedback to brain
+				Feedback causes/intensifies emotions
+			Schachterand Singer’s cognitive arousal theory
+				Stimulus →physiological response AND cognitive labeling of arousal →experience of emotion
+			Lazarus’s cognitive-mediational theory
+				Stimulus →immediate cognitive appraisal →emotional response →physiological response

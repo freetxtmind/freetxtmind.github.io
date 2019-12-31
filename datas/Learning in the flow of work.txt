@@ -1,0 +1,174 @@
+[**Learning in the flow of work**](https://www.youtube.com/watch?v=niOI9VoS7IY&t=918s)
+	Learner Experience
+		Skills certification
+		Leaderboards
+		Interactive
+		Super simple
+		Personalized recommendations
+		Mobile-first
+		VR/AR
+		Community/social network
+		Streamlined, save time, reduce time to find
+		Gamification
+		Microcredentialing
+		Repetition and re-inforcement
+	People 
+		People teaching people: the sign of a strong company is people helping others
+			Exposure
+			Developmental assignments
+			Mentorships
+			Coaching
+			Peer coaching 
+			Peer feedback on projects
+		Tools
+			[MentorclIQ](https://www.mentorcliq.com/)
+			Peer coaching platform: [Imperative](https://www.imperative.com/)
+	Process and approaches
+		[Case studies from Slack and Udemy](https://drive.google.com/open?id=1KvsYPl6r0d68MG0fbrB-orfNQQd9QaAi)
+		In flow of work
+		Constantly challenged yet capable of moving up the learning curve
+		New learners: structured learning (macro)
+		More advanced learners: unstructured learning (micro)
+			Macro-learning approaches
+				Ex: MOOCs, lengthy and in-depth courses to get someone up to a level of comfort and effectiveness
+				Best for new learners or people entering into new roles
+			Micro-learning approaches
+				Add peer feedback for quick engagement
+				Micro-learning approaches: retention of operational knowledge: using adaptive learning to refresh and remind people of what they need to know
+				Practice: repetition is not enough; practice is needed to reinforce and solidify retention
+	**Learning organization capabilities needed now**: no longer managing curricula, now managing employee journeys
+		Strategic
+			Tech tools & leadership
+			Experience leadership
+			Experience management/architecture
+		Core
+			Data analysis + data-driven experiences
+			Content curation
+			Experience design
+			Branding & communication
+		**ENABLERS**
+			Technology tools
+				**PLATFORMS**
+					program delivery platforms
+					micro-learning platforms (adaptive)
+					learning aggregation platforms
+					gamification environments
+					**What's next: Learning experience platforms - LXP** Learner-centric portals that allows you to curate and publish content of any type from any source 
+						personalized search
+						learning pathways
+						content curation
+						engaging people
+					content libraries: Udacity, EdX
+					AI-based analysis and learning tools
+					virtual reality systems and products
+					LMS and content platforms
+				**CONTENT CREATION TOOLS**
+					Cloud-based authoring tools
+					Social tools: Youtube, douyin, etc.
+					Saas hosting for video content (wistia) and creation (soapbox)
+				**DATA**
+					xAPI is new technology standard: tracks interactions with learning systems: when, how much time, what asset
+					Use meta-data to give better search
+				**EXPERIENCE**
+					Chatbots
+					Wechat (or other social chat)
+					Collaboration tools
+					Mentoring/coaching platforms
+					Slack
+				**ENVIRONMENT**
+					OKP apps (China)
+					Learning marketplaces
+					Online-live video tools
+					Mobile platforms
+				**EDUCATION**
+					LMS: learning management systems
+					Reporting & analytics tools
+					MOOCs
+					Virtual classroom platforms
+					ebooks
+				**EXPOSURE**
+					Content marketing
+					Social networks
+					Blogs
+					Social learning platforms
+			Devices
+			Culture
+			User experience/interface design
+			[Innovation](https://elearningcarnival.com/2018/03/03/artificial-intelligence-in-elearning-delivered-10-companies-that-can-transform-the-learning-management-with-ai/)
+				AI search by chat and feeds
+				AI-powered content creation
+					[Wildfire](http://www.wildfirelearning.co.uk/)
+					[Volley](https://volley.com/)
+	[Content](https://www.eidesign.net/creating-powerful-employee-training-with-social-learning-featuring-microlearning-videos/)
+		Podcasts
+		Curated from multiple sources (PGC + UGC); (from within organization + from respected experts)
+		Repetitive
+		Video
+		Micro + Macro
+		On-demand
+		Mobile first
+		Project-utilized
+		Social/peer created 
+	Learning
+		**The future of learning: [Social Learning](https://youtu.be/X6Zo53M0lcY)**
+		**Albert Bandura's Social Learning Theory**: Most human behavior is learned observationally through modeling
+			1. Attention: Paying attention to the peer or model and the behavior they exhibit
+			2. Retention: Recalling the new knowledge or behavior
+			3. Reproduction: Modeling or imitating this new skill or behavior
+			4. Motivation: Having a good reason to imitate this new skill or behavoir
+				**Learning motivation:** the 'why' of the activity - giving people a good reason to do something
+					[ARCS Model of Motivational Design (Keller): ](https://www.learning-theories.com/kellers-arcs-model-of-motivational-design.html)
+						Attention: grab learners attention
+							Active participation: games, role play, engagement
+							Variability: variety of methods in presenting material
+							Incongruity and conflict
+							Humor: small amount is good
+							Specific examples: storytelling, visuals, etc.
+							Inquiry, problems to solve: eg brainstorming
+						Relevance: use concrete language and examples 
+							Choice: allow learners to choose own method
+							Needs matching: achievement, risk taking, power, affiliation
+							Future usefulness: what will this do for me tomorrow?
+							Modeling: be what you want them to do!
+							Experience: using existing skills
+							Present worth: what will the subject do for me today?
+						Confidence
+							Allow for meaningful success
+							Self-efficacy - help learners see their likelihood for success
+							Awareness of performance requirements and evaluation criteria from the start
+							Feedback
+							Learner control: learners should believe that their success is a direct result of the amount of effort they have put forth
+							Growth: allow for small steps of growth
+						Satisfaction
+							Rewarding or satisfying learning
+							Opportunities to use knowledge in a real setting makes learners feel that the new skill is useful or beneficial
+							Feedback and reinforcement lead to satisfying results
+							Do not over-reward easy tasks
+					**Build motivation:**
+					Give a strong reason: a good WHY
+					Show the value of the learning program to each person, personally
+					Add to percieved value through contribution: need to pay or use own free time, **made exclusive**, limited enrollment, etc.
+					Metrics-focused case studies of success
+					Use a mix of positive, negative, internal and external incentives
+						Incentives
+							*Offered before the action takes place*
+							ways to motivate
+							usually external, but some incentives can trigger internal rewards
+							external incentives can REDUCE motivation because it puts the focus on the outcome instead of the activity
+					Use rewards appropriately
+						Rewards
+							*Result of the behavior*
+							prize or benefit
+							external: monetary/non-monetary; positive/negative
+							internal: feelings of accomplishment, community, or autonomy
+		**Learning engagement:** the  'what' of the activity - making sure that the experience itself is enjoyable, challenging, and engaging
+			Attention
+			Curiosity
+			Interest
+			Passion
+			**Build engagement**
+				First impression important: keep logistics smooth, pace flowing
+				Use good learning design principles: learner-centric, interactive, clear objectives and explanations, variety in media and activities
+				Use tech/platform that is fun and easy to use
+				Good content, enough content, variety of content
+				Right level of difficulty
