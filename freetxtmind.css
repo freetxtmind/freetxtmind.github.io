@@ -108,6 +108,11 @@ img, svg {
   max-width: inherit!important;
   max-height: inherit!important;
 }
+
+#markmap .markmap-current-node {
+  outline: 2px solid;
+  outline-offset: 2px;
+}
 a, a:active, label {
 	color: #0008;
 	text-decoration: none
